@@ -9,9 +9,8 @@ Implementations:
 - Event listener
 
 Installation:
-- Requirements: python3, pipenv
-- python -m venv venv
-- source venv/bin/activate
+- Requirements: python3, pip
+- pip install -r requirements.txt
 
 Run pytest src/tests/TestLogin.py --browser=chrome at the root level
 
